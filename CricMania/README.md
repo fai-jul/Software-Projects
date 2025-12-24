@@ -149,9 +149,11 @@ Default settings (modifiable in code):
 > - `images/welcome_screen.png` - Welcome screen
 > - `images/main_menu.png` - Main menu interface
 > - `images/team_management.png` - Team management screen
+> - `images/add_player.png` - Adding player & bowler
+> - `images/view_squad.png` - Adding player & bowler
 > - `images/match_simulation.png` - Live match simulation
 > - `images/scoreboard.png` - Detailed scoreboard
-> - `images/match_result.png` - Match result display
+> - `images/match_result & MOTM.png` - Match result display
 
 ## 📁 File Structure
 
