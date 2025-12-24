@@ -1,0 +1,36 @@
+# Compiled files
+*.exe
+*.out
+*.o
+*.obj
+cricket_simulator
+cricket_simulator.exe
+
+# Generated data files
+cricket_users.dat
+history.txt
+
+# IDE and editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.sublime-*
+
+# OS specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+temp/
