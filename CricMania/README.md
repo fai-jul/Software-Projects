@@ -1,4 +1,5 @@
-# 🏏 Cricket Simulator - CRICMANIA
+# 🏏 Cricket Simulator - CRICMANIA 
+Date : 29/01/2025
 
 A feature-rich, terminal-based cricket match simulator built in C with user authentication, team management, and real-time match simulation capabilities.
 
